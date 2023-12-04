@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  
+}
+
+.logo {
+  width: 150px;
+}
+
+.sfondo {
+  background-image: url("../img/wood.jpg");
+  width: 100%;
+  height: 100vh;
+}
+
+.text-white {
+    color: white;
+}
+
+.d-inline-block {
+    display:inline-block;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+
+.titolo {
+    font-weight:lighter;
+    font-size:2em;
+    margin-top: 2em;
+    margin-left: 0.6em;
+}
+
+.border {
+    border: 1px solid white;
+    margin-bottom: 1em;
+}
+
+.padding  {
+    padding: 0.1em;
+}
+
+.paragrafo {
+    margin-top: 2em;
+    font-size: 1.5em;
+    margin-bottom: 2em;
+}
+
+.radius {
+    border-radius: 50%;
+    background-color: orange;
+    display:inline-block;
+    padding: 0.3em;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.bg-lightgray {
+    background-color:lightgrey;
+    padding: 0.2em;
+    border-bottom: 1px solid black;
+}
+
+.list-style {
+    list-style: none;
+    margin-bottom: 0.3em;
+}
+
+.centro {
+    text-align: center;
+}
+
+.font {
+    font-weight: 100;
+}
+
+.corsivo {
+    font-style: italic;
+    font-size: 0.4em;
+    display: inline-block;
+    margin-top: 2em;
+}
+
+.footer {
+    font-weight:lighter;
+    font-size:2em;
+}
+
